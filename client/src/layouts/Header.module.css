@@ -1,0 +1,16 @@
+.header {
+    border-bottom: 1px solid
+		   light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
+}
+
+.ul {
+    list-style: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.navTop,
+.navBottom {
+    padding-top: 8.5px;
+    padding-bottom: 8.5px;
+}
